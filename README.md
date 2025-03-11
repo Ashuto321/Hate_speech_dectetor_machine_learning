@@ -3,6 +3,7 @@
 🔍 A machine learning-based classifier that detects hate speech in text data. This project helps in identifying and mitigating toxic language online.
 
 📌 Features
+
 ✅ Real-time Text Classification – Detects hate speech vs. normal speech.
 ✅ Machine Learning Model – Uses NLP techniques for classification.
 ✅ Preprocessed Dataset – Cleaned and tokenized text data.
